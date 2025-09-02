@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Tom aka TomCat415
+# 👋 Howdy, I’m Tom aka TomCat415
 
 Fullstack indie dev building products at the intersection of **AI, finance, and web3**.  
 
