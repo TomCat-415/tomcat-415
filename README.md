@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I’m Tom aka TomCat415
 
-<!--
-**TomCat-415/tomcat-415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐾 Fullstack indie dev building products at the intersection of **AI, finance, and web3**.  
+⚡ Currently focused on **Rust + Solana** while shipping apps in **React Native**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 📱 [**Expensei**](https://github.com/TomCat-415/ExpenseiMobile) – Smart expense tracker with Supabase + Stripe + OCR, live on TestFlight.  
+- 🌈 [**Magic Story Buddy**](https://msbtest1.vercel.app) – Early AI storytelling prototype using OpenAI API.  
+- 🔢 [**Solana Counter**](https://github.com/TomCat-415/counter-demo) – On-chain counter app built with Rust + Anchor, integrated with Phantom.   
+
+---
+
+### 🛠 Tech Stack
+- **Frontend:** React, React Native, Expo, Next.js  
+- **Backend:** Node.js, Supabase (Postgres), Python  
+- **Blockchain:** Rust, Anchor, Solana Web3.js  
+- **Other:** Stripe, GitHub Actions, TestFlight  
+
+---
+
+### 📬 Contact
+✉️ tomcatlabs@gmail.com | 🐦 [@TomCat415](https://x.com/TomCat415)
