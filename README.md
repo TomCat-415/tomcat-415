@@ -18,9 +18,4 @@
 - **Frontend:** React, React Native, Expo, Next.js  
 - **Backend:** Node.js, Supabase (Postgres), Python  
 - **Blockchain:** Rust, Anchor, Solana Web3.js  
-- **Other:** Stripe, GitHub Actions, TestFlight  
-
----
-
-### 📬 Contact
-✉️ tomcatlabs@gmail.com | 🐦 [@TomCat415](https://x.com/TomCat415)
+- **Other:** Stripe, GitHub Actions, TestFlight 
