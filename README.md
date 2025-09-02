@@ -3,7 +3,7 @@
 🐾 Fullstack indie dev building products at the intersection of **AI, finance, and web3**.  
 
 ⚡ Currently focused on **Rust + Solana** while shipping apps in **React Native**.  
-🛠 After months in solo mobile dev mode, I’m now excited to collaborate and build in the **web3 world**.
+🛠 After months in solo mobile dev mode, I’m now also excited to collaborate and build in the **web3 world**.
 
 ---
 
