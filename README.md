@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Projects
-- 📱 [**Expensei**](https://github.com/TomCat-415/ExpenseiMobile) – Smart expense tracker with Supabase + Stripe + OCR, live on TestFlight.  
+- 📱 [**Expensei**](https://github.com/TomCat-415/ExpenseiMobile-Public) – Smart expense tracker with Supabase + Stripe + OCR, live on TestFlight.  
 - 🌈 [**Magic Story Buddy**](https://msbtest1.vercel.app) – Early AI storytelling prototype using OpenAI API.  
 - 🔢 [**Solana Counter**](https://github.com/TomCat-415/counter-demo) – On-chain counter app built with Rust + Anchor, integrated with Phantom.   
 
