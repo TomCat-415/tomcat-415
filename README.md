@@ -15,7 +15,7 @@ Fullstack indie dev building products at the intersection of **AI, finance, and 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomCat-415&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-alpha-drab-49.vercel.app/api?username=TomCat-415&show_icons=true&count_private=true&theme=tokyonight)
 
 ---
 
@@ -30,8 +30,6 @@ Fullstack indie dev building products at the intersection of **AI, finance, and 
 ---
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomCat-415&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-alpha-drab-49.vercel.app/api/top-langs/?username=TomCat-415&layout=compact&theme=tokyonight&count_private=true)
 
 ---
-
-✨ Thanks for visiting my profile!
