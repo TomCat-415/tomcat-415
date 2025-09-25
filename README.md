@@ -1,5 +1,9 @@
 # 👋 Howdy, I’m Tom aka TomCat415
-![Snake animation](https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
+</picture>
 
 Fullstack indie dev building products at the intersection of **AI, finance, and web3**.  
 
