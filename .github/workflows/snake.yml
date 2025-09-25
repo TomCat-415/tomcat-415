@@ -3,27 +3,27 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # daily at 00:00 UTC
-  workflow_dispatch:       # allow manual run
+  workflow_dispatch:
 
 permissions:
-  contents: write          # <— important for pushing
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
+      - name: Generate light and dark snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: TomCat-415
           outputs: |
-            dist/snake.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push snake.svg to output branch
+      - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
