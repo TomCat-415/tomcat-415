@@ -25,7 +25,7 @@ Fullstack indie dev building products at the intersection of **AI, finance, and 
 ---
 
 ### Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=TomCat-415&theme=tokyonight&cache_seconds=21600)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=TomCat-415&theme=tokyonight&cache_seconds=21600)](https://git.io/streak-stats)
 
 ---
 
