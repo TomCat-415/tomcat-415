@@ -5,17 +5,17 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
 </picture>
 
-Fullstack indie dev building products at the intersection of **AI, finance, and web3**.  
+Fullstack indie dev shipping systems at the edge of **AI, finance, and web3**.  
 
-- Currently focused on **Rust + Solana** while shipping apps in **React Native**.  
-- After months in solo mobile dev mode, I’m now also excited to collab and build in the **web3 world**.
+- Currently focused on **Rust + Solana** while shipping **React Native** apps on iOS as well.
+- Open to collabs and contributions in the Solana **ecosystem**.
 
 ---
 
 ### Projects
-- 📱 [**Expensei**](https://github.com/TomCat-415/ExpenseiMobile-Public) - Smart expense tracker with Supabase + Stripe + OCR, live on TestFlight.  
-- 🌈 [**Magic Story Buddy**](https://msbtest1.vercel.app) - Early AI storytelling prototype using OpenAI API.  
-- 🔢 [**Solana Counter**](https://github.com/TomCat-415/counter-demo) - On-chain counter app built with Rust + Anchor, integrated with Phantom.   
+- 📱 [**Expensei**](https://github.com/TomCat-415/ExpenseiMobile-Public) - Smart expense tracker with Supabase + Stripe + OCR; live on TestFlight.  
+- 🔢 [**WZRD Wallets Demo**](https://github.com/TomCat-415/wallets-quickstart) - Server-side web2 + web3 (Solana) wallets. Next.js + Express REST (Crossmint); logs + audit trail; Vercel + Render.
+- 🌈 [**Magic Story Buddy**](https://msbtest1.vercel.app) - Early AI storytelling prototype using OpenAI API.     
 
 ---
 
