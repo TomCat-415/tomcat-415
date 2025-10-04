@@ -1,4 +1,4 @@
-# 👋 Howdy, I’m Tom aka TomCat415
+# 👋 Howdy, I’m TomCat
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
@@ -8,6 +8,7 @@
 Fullstack indie dev shipping systems at the edge of **AI, finance, and web3**.  
 
 - Currently focused on **Rust + Solana** while shipping **React Native** apps on iOS as well.
+- Building auth + wallet infrastructure to bridge web2 and web3 UX.
 - Open to collabs and contributions in the Solana **ecosystem**.
 
 ---
