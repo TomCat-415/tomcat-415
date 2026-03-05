@@ -1,36 +1,20 @@
 # 👋 Howdy, I’m TomCat
 
-**Founder of Tom Cat Labs**  
-Building **Expensei** - a visual budgeting system designed around behavioral finance.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
 </picture>
 
-## 📱 Expensei
+**Founder of Tom Cat Labs**  
+Building **Expensei** - a visual budgeting app designed around the **50/30/20** rule.
 
-Expensei is a mobile budgeting system that organizes spending into three simple pillars:
-
-🟦 **Needs**  
-🟪 **Wants**  
-🟩 **Savings**
-
-Most finance apps bury users in transaction lists and spreadsheets.
-
-Expensei focuses on **visual financial awareness**.
-
-Every expense flows into a pillar so users can instantly see how their spending aligns with the classic **50 / 30 / 20 budgeting rule**.
-
-The goal is simple:
-
+🟦 Needs  🟪 Wants  🟩 Savings  
+**Goal:** 
 > make financial awareness effortless.
 
----
-
-<p align="center">
-  <img src="assets/expensei/pillars.png" width="420">
+<p>
+  <img src="assets/expensei/pillars-dark.png" width="520" alt="Expensei pillars preview" />
 </p>
 
 <p align="center">
