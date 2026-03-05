@@ -14,7 +14,7 @@ Every category feeds one of three pillars so spending becomes instantly visible:
   <img src="assets/expensei/pill-frame.png" width="480" alt="Expensei pillars preview" />
 </p>
 
-[![Expensei](https://github-readme-stats-alpha-drab-49.vercel.app/api/pin/?username=TomCat-415&repo=ExpenseiMobile-Public&theme=tokyonight&v=1)](https://github.com/TomCat-415/ExpenseiMobile-Public)
+[![Expensei](https://github-readme-stats-alpha-drab-49.vercel.app/api/pin/?username=TomCat-415&repo=ExpenseiMobile-Public&theme=tokyonight&v=2)](https://github.com/TomCat-415/ExpenseiMobile-Public)
 
 - Offline-first syncing with a persistent queue
 - Ledger-style transactions so transfers and reversals stay correct
