@@ -1,5 +1,4 @@
 # 👋 Howdy, I’m TomCat
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
