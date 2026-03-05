@@ -5,7 +5,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
 </picture>
 
-**Founder of Tom Cat Labs**  
+**Founder @ Tom Cat Labs**  
 
 📱 Building **Expensei** • a visual budgeting app based on the **50/30/20** rule
 
