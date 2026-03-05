@@ -7,22 +7,22 @@
 
 **Founder @ Tom Cat Labs**  
 
-📱 Building **Expensei** • a visual budgeting app based on the **50/30/20** rule
+📱 Building **Expensei** • visual budgeting based on the **50/30/20** rule
 
-Every category feeds one of three pillars so spending becomes instantly visible:
+Spending categories roll up into Needs and Wants, while Savings tracks progress toward your monthly goal:
 <p>
   <img src="assets/expensei/pill-frame.png" width="480" alt="Expensei pillars preview" />
 </p>
 
 [![Expensei](https://github-readme-stats-alpha-drab-49.vercel.app/api/pin/?username=TomCat-415&repo=ExpenseiMobile-Public&theme=tokyonight&v=2)](https://github.com/TomCat-415/ExpenseiMobile-Public)
 
-- Offline-first syncing with a persistent queue
-- Ledger-style transactions so transfers and reversals stay correct
-- Snapshot-backed monthly views for fast history and recaps
+**Built with:** React Native (Expo) • Supabase (Postgres) • TypeScript
 
-**Stack:** React Native (Expo) • Supabase (Postgres) • TypeScript
+• **Offline-first syncing** with a persistent queue  
+• **Ledger-style transactions** so transfers stay correct  
+• **Snapshot-backed monthly views** for fast history and recaps
 
-🚧 Currently in private alpha — TestFlight coming soon
+🚧 Private alpha • Public beta coming soon (iOS TestFlight + Android)
 
 ---
 
