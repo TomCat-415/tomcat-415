@@ -25,5 +25,3 @@ Every category feeds one of three pillars so spending becomes instantly visible:
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats-rouge-omega.vercel.app/?user=TomCat-415&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=true&card_width=480&v=1)
-
----
