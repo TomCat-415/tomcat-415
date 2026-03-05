@@ -1,22 +1,45 @@
 # 👋 Howdy, I’m TomCat
+
+**Founder of Tom Cat Labs**  
+Building **Expensei** - a visual budgeting system designed around behavioral finance.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
 </picture>
 
-Fullstack indie dev shipping systems at the edge of **AI, finance, and web3**.  
+## 📱 Expensei
 
-- Currently focused on **Rust + Solana** while shipping **React Native** apps on iOS as well.
-- Building auth + wallet infrastructure to bridge web2 and web3 UX.
-- Open to collabs and contributions in the Solana **ecosystem**.
+Expensei is a mobile budgeting system that organizes spending into three simple pillars:
+
+🟦 **Needs**  
+🟪 **Wants**  
+🟩 **Savings**
+
+Most finance apps bury users in transaction lists and spreadsheets.
+
+Expensei focuses on **visual financial awareness**.
+
+Every expense flows into a pillar so users can instantly see how their spending aligns with the classic **50 / 30 / 20 budgeting rule**.
+
+The goal is simple:
+
+> make financial awareness effortless.
 
 ---
 
-### Projects
-- 📱 [**Expensei**](https://github.com/TomCat-415/ExpenseiMobile-Public) - Smart expense tracker with Supabase + Stripe + OCR; live on TestFlight.  
-- 🔢 [**WZRD Wallets Demo**](https://github.com/TomCat-415/wallets-quickstart) - Server-side web2 + web3 (Solana) wallets. Next.js + Express REST (Crossmint); logs + audit trail; Vercel + Render.
-- 🌈 [**Magic Story Buddy**](https://msbtest1.vercel.app) - Early AI storytelling prototype using OpenAI API.     
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TomCat-415/tomcat-415/main/docs/screenshots/budget-pillars-dark.png" width="420">
+  <img src="https://raw.githubusercontent.com/TomCat-415/tomcat-415/main/docs/screenshots/expense-grid-dark.png" width="420">
+</p>
+
+<p align="center">
+  <sub>
+    <b>Left:</b> Visual budgeting with the three pillars: Needs, Wants, Savings.<br>
+    <b>Right:</b> Categories inherit pillar colors so you instantly see where spending belongs.
+  </sub>
+</p>
 
 ---
 
