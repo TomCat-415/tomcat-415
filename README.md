@@ -30,8 +30,8 @@ The goal is simple:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TomCat-415/tomcat-415/main/docs/screenshots/budget-pillars-dark.png" width="420">
-  <img src="https://raw.githubusercontent.com/TomCat-415/tomcat-415/main/docs/screenshots/expense-grid-dark.png" width="420">
+  <img src="assets/expensei/budget-pillars-dark.png" width="420">
+  <img src="assets/expensei/expense-grid-dark.png" width="420">
 </p>
 
 <p align="center">
