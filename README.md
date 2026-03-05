@@ -6,21 +6,12 @@
 </picture>
 
 **Founder of Tom Cat Labs**  
-Building **Expensei** - a visual budgeting app designed around the **50/30/20** rule.
+Building **Expensei** - a visual budgeting app based on the **50/30/20** rule
+> Make financial awareness effortless
 
-🟦 Needs  🟪 Wants  🟩 Savings  
-**Goal:** 
-> make financial awareness effortless.
-
+Categories flow into three pillars so you instantly see where your money goes:
 <p>
-  <img src="assets/expensei/pillar-dark.png" width="520" alt="Expensei pillars preview" />
-</p>
-
-<p align="center">
-  <sub>
-    <b>Left:</b> Visual budgeting with the three pillars: Needs, Wants, Savings.<br>
-    <b>Right:</b> Categories inherit pillar colors so you instantly see where spending belongs.
-  </sub>
+  <img src="assets/expensei/pillar-dark.png" width="440" alt="Expensei pillars preview" />
 </p>
 
 ---
