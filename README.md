@@ -30,8 +30,7 @@ The goal is simple:
 ---
 
 <p align="center">
-  <img src="assets/expensei/budget-pillars-dark.png" width="420">
-  <img src="assets/expensei/expense-grid-dark.png" width="420">
+  <img src="assets/expensei/pillars.png" width="420">
 </p>
 
 <p align="center">
