@@ -14,7 +14,7 @@ Building **Expensei** - a visual budgeting app designed around the **50/30/20** 
 > make financial awareness effortless.
 
 <p>
-  <img src="assets/expensei/pillars-dark.png" width="520" alt="Expensei pillars preview" />
+  <img src="assets/expensei/pillar-dark.png" width="520" alt="Expensei pillars preview" />
 </p>
 
 <p align="center">
