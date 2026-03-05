@@ -11,7 +11,7 @@
 
 Every category feeds one of three pillars so spending becomes instantly visible:
 <p>
-  <img src="assets/expensei/pillar-frame.png" width="480" alt="Expensei pillars preview" />
+  <img src="assets/expensei/pill-frame.png" width="480" alt="Expensei pillars preview" />
 </p>
 
 - Offline-first syncing with a persistent queue
