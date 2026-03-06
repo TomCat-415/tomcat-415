@@ -5,11 +5,17 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/TomCat-415/TomCat-415/output/github-snake.svg" />
 </picture>
 
-**Founder @ Tom Cat Labs**  
+**Founder @ Tom Cat Labs • Indie app developer**
 
-📱 Building **Expensei** • visual budgeting based on the **50/30/20** rule
+<img src="assets/expensei/expensei-icon1.png" width="46" alt="Expensei app icon" align="left" style="position: relative; top: 15px;">
 
-Spending categories roll up into Needs and Wants, while Savings tracks progress toward your monthly goal:
+Building **Expensei** • visual budgeting app built around the **50/30/20** rule
+
+<br clear="left">
+
+Expenses feed **Needs** and **Wants** pillars, while **Savings** tracks progress toward your monthly goal 
+<br>
+The **50/30/20 rule** targets 50% of income for Needs, 30% for Wants, and 20% for Savings:
 <p>
   <img src="assets/expensei/pill-frame.png" width="480" alt="Expensei pillars preview" />
 </p>
@@ -22,7 +28,7 @@ Spending categories roll up into Needs and Wants, while Savings tracks progress 
 • **Ledger-style transactions** so transfers stay correct  
 • **Snapshot-backed monthly views** for fast history and recaps
 
-🚧 Private alpha • Public beta coming soon (iOS TestFlight + Android)
+🚧 Private alpha • iOS & Android beta coming soon
 
 ---
 
