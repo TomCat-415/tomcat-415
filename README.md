@@ -13,14 +13,13 @@ Building **Expensei** • visual budgeting app built around the **50/30/20** rul
 
 <br clear="left">
 
-Expenses feed **Needs** and **Wants** pillars, while **Savings** tracks progress toward your monthly goal 
-<br>
-The **50/30/20 rule** targets 50% of income for Needs, 30% for Wants, and 20% for Savings:
+[![Expensei](https://github-readme-stats-alpha-drab-49.vercel.app/api/pin/?username=TomCat-415&repo=ExpenseiMobile-Public&theme=tokyonight&v=3)](https://github.com/TomCat-415/ExpenseiMobile-Public)
+
+- Expenses feed **Needs** and **Wants** pillars, while **Savings** tracks progress toward your monthly goal 
+- The **50/30/20 rule** targets 50% of income for Needs, 30% for Wants, and 20% for Savings:
 <p>
   <img src="assets/expensei/pill-frame.png" width="480" alt="Expensei pillars preview" />
 </p>
-
-[![Expensei](https://github-readme-stats-alpha-drab-49.vercel.app/api/pin/?username=TomCat-415&repo=ExpenseiMobile-Public&theme=tokyonight&v=3)](https://github.com/TomCat-415/ExpenseiMobile-Public)
 
 **Built with:** React Native (Expo) • Supabase (Postgres) • TypeScript
 
